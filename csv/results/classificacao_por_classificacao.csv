@@ -1,0 +1,24 @@
+Nome,Idade,Experiencia,Email,Pontuacao_Conhecimentos,Pontuacao_Habilidades,Pontuacao_Atitudes,python,graduação,estruturas de dados,desenvolvimento ágil,bancos de dados,design escalável,depuração,integração de APIs,testes de unidade,comunicação,liderança,comprometimento,aprendizado contínuo,adaptabilidade,trabalho em equipe,ética,Classificacao,Acuracia
+Luis,20,Sr Python Developer and graduação depuração,luis20@email.com,2,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0.8
+Maria,34,Sr Python Developer,maria34@email.com,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.8
+Miguel,24,Junior Python Developer,miguel24@email.com,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.8
+Joao,23,Front-End Developer and Python Developer,joao23@email.com,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.8
+Isabel,31,Front-End Developer,isabel31@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Ana,28,Back-End Developer,ana28@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Carlos,30,Software Engineer and DevOps Specialist,carlos30@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Sofia,25,UI/UX Designer,sofia25@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Pedro,29,Data Scientist,pedro29@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Laura,32,Product Manager,laura32@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+André,27,Mobile App Developer,andre27@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Fernanda,35,Database Administrator,fernanda35@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Rui,26,Machine Learning Engineer,rui26@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Diana,29,Software Tester,diana29@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Tiago,22,Full Stack Web Developer,tiago22@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Guilherme,36,Cloud Solutions Architect,guilherme36@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Catarina,27,UI Designer and Front-End Developer,catarina27@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+António,30,DevOps Engineer,antonio30@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Marta,28,Product Owner,marta28@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Hugo,32,Data Engineer,hugo32@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Inês,23,Junior UI/UX Designer,ines23@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Beatriz,33,Senior Data Analyst,beatriz33@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8
+Alexandre,37,Senior Full Stack Developer,alexandre37@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8

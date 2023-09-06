@@ -1,4 +1,4 @@
-Nome,Idade,Experiencia,Email,Pontuacao_Conhecimentos,Pontuacao_Habilidades,Pontuacao_Atitudes,python,graduação,estruturas de dados,desenvolvimento ágil,bancos de dados,design escalável,depuração,integração de APIs,testes de unidade,comunicação,liderança,comprometimento,aprendizado contínuo,adaptabilidade,trabalho em equipe,ética,Pontuacao_Total
+Nome,Idade,Experiencia,Email,Pontuacao_Conhecimentos,Pontuacao_Habilidades,Pontuacao_Atitudes,python,graduação,estruturas de dados,desenvolvimento ágil,bancos de dados,design escalável,depuração,integração de APIs,testes de unidade,comunicação,liderança,comprometimento,aprendizado contínuo,adaptabilidade,trabalho em equipe,ética,Classificacao
 Luis,20,Sr Python Developer and graduação depuração,luis20@email.com,2,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3
 Joao,23,Front-End Developer and Python Developer,joao23@email.com,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Maria,34,Sr Python Developer,maria34@email.com,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

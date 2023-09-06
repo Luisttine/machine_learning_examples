@@ -1,0 +1,24 @@
+Nome,Idade,Experiencia,Email,administrator,analyst,and,app,architect,back,cloud,data,database,designer,developer,devops,end,engineer,front,full,junior,learning,machine,manager,mobile,owner,product,python,scientist,senior,software,solutions,specialist,sr,stack,tester,ui,ux,web
+Joao,23,Front-End Developer and Python Developer,joao23@email.com,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Maria,34,Sr Python Developer,maria34@email.com,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Luis,20,Sr Python Developer and Full Stack Web-Developer,luis20@email.com,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+Ana,28,Back-End Developer,ana28@email.com,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos,30,Software Engineer and DevOps Specialist,carlos30@email.com,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Sofia,25,UI/UX Designer,sofia25@email.com,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Pedro,29,Data Scientist,pedro29@email.com,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Laura,32,Product Manager,laura32@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+André,27,Mobile App Developer,andre27@email.com,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fernanda,35,Database Administrator,fernanda35@email.com,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rui,26,Machine Learning Engineer,rui26@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Isabel,31,Front-End Developer,isabel31@email.com,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miguel,24,Junior Python Developer,miguel24@email.com,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Beatriz,33,Senior Data Analyst,beatriz33@email.com,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tiago,22,Full Stack Web Developer,tiago22@email.com,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Diana,29,Software Tester,diana29@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Guilherme,36,Cloud Solutions Architect,guilherme36@email.com,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Catarina,27,UI Designer and Front-End Developer,catarina27@email.com,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+António,30,DevOps Engineer,antonio30@email.com,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marta,28,Product Owner,marta28@email.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hugo,32,Data Engineer,hugo32@email.com,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inês,23,Junior UI/UX Designer,ines23@email.com,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Alexandre,37,Senior Full Stack Developer,alexandre37@email.com,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
